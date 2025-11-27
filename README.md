@@ -75,7 +75,7 @@ Two gauges displaying:
 ---
 
 ##  Dashboard Preview
-![Dashboard](image\Data-Professional-Survey-Breakdown.png)
+![Dashboard](image/Data-Professional-Survey-Breakdown.png)
 
 ---
 
